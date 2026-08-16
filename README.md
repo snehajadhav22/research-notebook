@@ -1,55 +1,40 @@
-# Loop Optimization in Compilers
+# 🔬 Research Notebook
 
-## Paper Overview
+> My personal MSc Computer Science space for learning, research, experiments, and ideas.
 
-This paper discusses the importance of compiler optimization, especially loop optimization, in improving program performance.
+## 📚 What's Inside
 
-## Problem Discussed
+### 📄 Research Papers
+Reviews and notes from research papers I read.
 
-Modern computer hardware is becoming more powerful and complex. However, programs do not automatically use all available hardware resources efficiently.
+### 🧠 Concepts
+Simple explanations of interesting Computer Science concepts.
 
-Compiler optimizations help improve program execution by transforming code into a more efficient form.
+### 🧪 Experiments
+Small technical experiments and observations.
 
-## Main Topics
+### 💡 Research Ideas
+Questions, problems, and research topics I want to explore.
 
-- Compiler optimization
-- Loop optimization
-- Parallel hardware
-- GCC
-- LLVM
-- Challenges in C and C++
+---
 
-## GCC and LLVM
+## 🎯 Purpose
 
-The paper discusses the loop optimization capabilities of two popular open-source compilers:
+This repository is not a collection of projects.
 
-- GCC
-- LLVM
+It is a record of my journey as an MSc Computer Science student —  
+what I learn, what I explore, what I question, and what I discover.
 
-Both compilers use different optimization techniques to improve program performance.
+---
 
-## What I Understood
+## 📌 Current Focus
 
-I learned that loops are important targets for compiler optimization because they often execute many times.
+- Compiler Optimization
+- Artificial Intelligence
+- Machine Learning
+- Computer Science Research
+- Emerging Technologies
 
-Optimizing a loop can reduce execution time and make better use of CPU resources.
+---
 
-## My Review
-
-The paper helped me understand how compiler optimization has evolved with modern hardware.
-
-I found the comparison of GCC and LLVM particularly interesting because both are widely used open-source compiler technologies.
-
-## What I Found Interesting
-
-The most interesting part was how compiler optimization can improve program performance without requiring the programmer to manually rewrite the entire program.
-
-## Questions I Still Have
-
-- How does LLVM decide which loop optimization to apply?
-- How does GCC differ from LLVM internally?
-- How much performance improvement can loop optimization provide in real programs?
-
-## References
-
-Paper studied for academic/research learning.
+> **Learn → Question → Explore → Document**
