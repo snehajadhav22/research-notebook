@@ -1,16 +1,22 @@
+---
 
-# 🧪 GCC Optimization Levels
+## 🧪 Experiment Plan
 
-## Objective
+### Test Program
 
-Understand how different GCC optimization levels can affect program performance.
+I will use the same C program for every optimization level.
 
-## Optimization Levels
+```c
+#include <stdio.h>
 
-GCC provides different optimization levels, such as:
+int main() {
+    long long sum = 0;
 
-```text
--O0
--O1
--O2
--O3
+    for (long long i = 0; i < 100000000; i++) {
+        sum += i;
+    }
+
+    printf("Sum = %lld\n", sum);
+
+    return 0;
+}
