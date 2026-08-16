@@ -11,10 +11,10 @@ Reviews and notes from research papers I read.
 Simple explanations of interesting Computer Science concepts.
 
 ### 🧪 Experiments
-Small technical experiments and observations.
+Small technical experiments, comparisons, and observations.
 
 ### 💡 Research Ideas
-Questions, problems, and research topics I want to explore.
+Research questions, problems, and topics I want to explore.
 
 ---
 
@@ -22,8 +22,7 @@ Questions, problems, and research topics I want to explore.
 
 This repository is not a collection of projects.
 
-It is a record of my journey as an MSc Computer Science student —  
-what I learn, what I explore, what I question, and what I discover.
+It is a record of my journey as an MSc Computer Science student — what I learn, what I explore, what I question, and what I discover.
 
 ---
 
@@ -33,7 +32,19 @@ what I learn, what I explore, what I question, and what I discover.
 - Artificial Intelligence
 - Machine Learning
 - Computer Science Research
+- Algorithms
 - Emerging Technologies
+
+---
+
+## 📖 Research & Learning Log
+
+| Area | Status |
+|---|---|
+| Research Papers | 🟡 Exploring |
+| Computer Science Concepts | 🟡 Learning |
+| Technical Experiments | ⚪ Planned |
+| Research Ideas | 🟡 Exploring |
 
 ---
 
